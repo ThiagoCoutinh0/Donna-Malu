@@ -1,8 +1,5 @@
 
-body{
-  
- 
-}
+
 
 header {
     display: flex;
@@ -14,7 +11,7 @@ header {
 
 
 .image-container {
-    width: 400px; /* Ajuste o valor conforme necessário */
+    width: 100%; /* Ajuste o valor conforme necessário */
     height: 200px; /* Ajuste o valor conforme necessário */
     overflow: hidden;
     position: relative;
@@ -41,6 +38,17 @@ header {
   
   li {
     padding: 15px; /* Espaçamento inferior entre os itens da lista */
+  }
+  
+
+  .div1 {
+    float: left;
+    width: 50%;
+  }
+  
+  .div2 {
+    float: right;
+    width: 50%;
   }
   
   
