@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.image-container {
+    width: 400px; /* Ajuste o valor conforme necessário */
+    height: 200px; /* Ajuste o valor conforme necessário */
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 60%;
+    transform: translateY(-50%);
+  }
+  
