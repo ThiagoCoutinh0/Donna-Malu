@@ -1,7 +1,15 @@
+
+body{
+  
+ 
+}
+
 header {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 190px;
+    
 }
 
 
@@ -19,4 +27,21 @@ header {
     top: 60%;
     transform: translateY(-50%);
   }
+  
+
+  #opc {
+    text-align: right;
+    background-color: aqua;
+  }
+
+  ul {
+    padding-top: 20px; /* Espaçamento superior entre os itens */
+    padding-bottom: 20px; /* Espaçamento inferior entre os itens */
+  }
+  
+  li {
+    padding: 15px; /* Espaçamento inferior entre os itens da lista */
+  }
+  
+  
   
