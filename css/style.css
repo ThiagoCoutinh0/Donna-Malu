@@ -5,14 +5,15 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 190px;
+    height: 125px;
+    
     
 }
 
 
 .image-container {
-    width: 100%; /* Ajuste o valor conforme necessário */
-    height: 200px; /* Ajuste o valor conforme necessário */
+    width: 80%; /* Ajuste o valor conforme necessário */
+    height: 130px; /* Ajuste o valor conforme necessário */
     overflow: hidden;
     position: relative;
   }
