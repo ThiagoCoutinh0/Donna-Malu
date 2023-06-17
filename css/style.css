@@ -32,7 +32,7 @@ header {
 
   #opc {
     text-align: right;
-    background-color: aqua;
+    background-color: #fff;
   }
 
   ul {
@@ -74,4 +74,11 @@ header {
     background-repeat: no-repeat;
   }
 
+
+  /*sobre*/
+
+  p {
+    margin-bottom: 1.5em; /* Espaçamento entre os parágrafos */
+    font-size: 22px; /* Tamanho das letras do parágrafo */
+  }
  
